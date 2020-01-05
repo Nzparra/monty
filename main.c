@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "monty.h"
 int status[3] = {0, 0, 0};
 /**
  * main - Monty Language
